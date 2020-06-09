@@ -13,3 +13,53 @@ The parameters associated with the MSSM are given by:
 |    wz    |        24,75       |
 |  z+jets  |       43.120       |
 |    zz    |        9,549       |
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+</head>
+
+<body>
+
+    <header>
+        <div>
+            Param Card para proyecto \(\tilde{\tau} + \text{ISR jet}\)
+        </div>
+    </header>
+
+    <div class="contenido">
+        <p>A continuación se describirá la <i><b>Param Card</b></i> correspondiente a una simulación de eventos
+            modelo estandar de mínima supersimetría (MSSM) en MadGraph a través del modelo <i><b>MSSM_SLHA2</b>
+            Estas
+            simulaciones se corren para eventos donde se considera coaniquilación \(\tilde{\tau}-\tilde{\chi}_{
+            y la
+            emisión de un jet radiación de estado inicial (<i><b>ISR jet</b></i>). Estos eventos se rigen por d
+            de Feynman como el siguiente:
+        </p>
+
+        <div class="text-center imagenes">
+            <img src="stau1_negro.png">
+        </div>
+
+        <p>
+            que representa el decaimiento directo del \(\tilde{\tau}\) más un ISR jet o los siguientes dos:
+        </p>
+
+        <div class="text-center dos_imagenes">
+            <img src="stau2_negro.png" style="padding: 10px 20px;">
+            <img src="stau3_negro.png" style="padding: 10px 20px;">
+        </div>
+
+        <p>
+            que muestran la producción de pares chargino/neutralino 2 más un ISR jet teniendo como mediadores l
+            bosones \(\gamma/Z\) (izquierda) y la producción de chargino junto con neutralino 2 más un ISR jet 
+            boson \(W^{\pm}\) como mediador (derecha) respectivamente.
+        </p>
+    </div>
+
+    <section class="contenedor_subtitulos flex text-center">
+        <p class="subtitulos">
+            Parámetros asociados al MSSM:
+        </p>
+    </section>
