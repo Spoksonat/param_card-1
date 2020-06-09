@@ -4,11 +4,10 @@ The following website is intended to explain the structure of the param card use
 
 The parameters associated with the MSSM are given by:
 
-|  Process | Cross section [pb] |
+|  Parameter | Description |
 |:--------:|:------------------:|
-|          |                    |
 |  Signal  |         0.2        |
-| t\bar{t} |        504,4       |
+| $t\bar{t}$ |        504,4       |
 |  w+jets  |       148.100      |
 |    ww    |        65,53       |
 |    wz    |        24,75       |
